@@ -1,3 +1,5 @@
-# DreamSteerer: Enhancing Source Image Conditioned Editability using Personalized Diffusion Models, NeurIPS 2024.
+# DreamSteerer: Enhancing Source Image Conditioned Editability using Personalized Diffusion Models.
 
-> The source code will be released soon.
+> *NeurIPS 2024*
+
+> *The source code will be released soon*.
